@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rajani/Desktop/InternshipRepo/AdRecommend/mlruns/0/dda06c1f6b3944d78f2e71a12661493b/artifacts
+end_time: 1712558976294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dda06c1f6b3944d78f2e71a12661493b
+run_name: unique-quail-589
+run_uuid: dda06c1f6b3944d78f2e71a12661493b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712558975836
+status: 4
+tags: []
+user_id: rajani

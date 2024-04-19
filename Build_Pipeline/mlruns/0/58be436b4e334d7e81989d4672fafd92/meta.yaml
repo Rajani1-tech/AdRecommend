@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rajani/Desktop/InternshipRepo/AdRecommend/mlruns/0/58be436b4e334d7e81989d4672fafd92/artifacts
+end_time: 1712560203934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58be436b4e334d7e81989d4672fafd92
+run_name: loud-bat-678
+run_uuid: 58be436b4e334d7e81989d4672fafd92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560197251
+status: 3
+tags: []
+user_id: rajani

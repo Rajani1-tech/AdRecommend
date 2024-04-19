@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rajani/Desktop/InternshipRepo/AdRecommend/mlruns/0/da2159266b6d435aa07fdf9d97d767ae/artifacts
+end_time: 1712559423387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2159266b6d435aa07fdf9d97d767ae
+run_name: carefree-gnu-448
+run_uuid: da2159266b6d435aa07fdf9d97d767ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712559423178
+status: 3
+tags: []
+user_id: rajani

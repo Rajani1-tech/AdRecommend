@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rajani/Desktop/InternshipRepo/AdRecommend/mlruns/0/ff9ac5e5b41a442ea0261bafbfaa1a97/artifacts
+end_time: 1712559790930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff9ac5e5b41a442ea0261bafbfaa1a97
+run_name: rare-panda-788
+run_uuid: ff9ac5e5b41a442ea0261bafbfaa1a97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712559790746
+status: 3
+tags: []
+user_id: rajani

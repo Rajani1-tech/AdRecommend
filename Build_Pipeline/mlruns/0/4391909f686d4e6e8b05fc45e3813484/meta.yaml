@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rajani/Desktop/InternshipRepo/AdRecommend/mlruns/0/4391909f686d4e6e8b05fc45e3813484/artifacts
+end_time: 1712561167598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4391909f686d4e6e8b05fc45e3813484
+run_name: angry-shrimp-984
+run_uuid: 4391909f686d4e6e8b05fc45e3813484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712561167404
+status: 3
+tags: []
+user_id: rajani
